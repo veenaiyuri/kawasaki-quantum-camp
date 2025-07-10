@@ -1,18 +1,18 @@
 # Kawasaki Quantum Summer Camp 2024
 
 ### Day 1
-- [量子コンピューティング入門](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day1/20240730_Intro.pdf)
-- [量子ゲート基礎 IBM Quantum Composer](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day1/20240730_Composer.pdf)
-- Qiskit入門演習([コード](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day1/20240730_qiskit.ipynb)・[解答例](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/solutions/day1/20240730_qiskit_solution.ipynb))
+- [量子コンピューティング入門](./day1/20240730_Intro.pdf)
+- [量子ゲート基礎 IBM Quantum Composer](./day1/20240730_Composer.pdf)
+- Qiskit入門演習([コード](./day1/20240730_qiskit.ipynb)・[解答例](./day1/20240730_qiskit_solution.ipynb))
 
 ### Day 2
-- 量子ハードウェア入門([解説](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/20240731_1_Hardware.pdf)・[コード](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/20240731_hardware.ipynb)・[解答例](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/solutions/day2/20240731_hardware_solution.ipynb)）
-- 量子テレポーテーション（[解説](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/20240731_2_Telepo.pdf)・[コード](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/20240731_teleportation.ipynb)・[解答例](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/solutions/day2/20240731_teleportation_solution.ipynb)）
-- 量子機械学習 ([解説](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/20240731_3_QML.pdf)・[コード](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day2/qml/20240731_qml.ipynb)・[解答例](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/solutions/day2/20240731_qml_solution.ipynb))
+- 量子ハードウェア入門([解説](./day2/20240731_1_Hardware.pdf)・[コード](./day2/20240731_hardware.ipynb)・[解答例](./day2/20240731_hardware_solution.ipynb)）
+- 量子テレポーテーション（[解説](./day2/20240731_2_Telepo.pdf)・[コード](./day2/20240731_teleportation.ipynb)・[解答例](./day2/20240731_teleportation_solution.ipynb)）
+- 量子機械学習 ([解説](./day2/20240731_3_QML.pdf)・[コード](./day2/qml/20240731_qml.ipynb)・[解答例](./day2/20240731_qml_solution.ipynb))
 
 ### Day 3
-- 量子化学で薬の開発([解説](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day3/20240801_Nature.pdf)・[コード](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day3/nature/20240801_nature.ipynb)・[解答例](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/solutions/day3/20240801_nature_solution.ipynb))
-- 量子最適化([解説](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day3/20240801_optimization.pdf)・[コード](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/day3/20240801_optimization.ipynb)・[解答例](https://github.com/quantum-tokyo/kawasaki-quantum-camp/blob/main/solutions/day3/20240801_optimization_solution.ipynb))
+- 量子化学で薬の開発([解説](./day3/20240801_Nature.pdf)・[コード](./day3/nature/20240801_nature.ipynb)・[解答例](./day3/20240801_nature_solution.ipynb))
+- 量子最適化([解説](./day3/20240801_optimization.pdf)・[コード](./day3/20240801_optimization.ipynb)・[解答例](./day3/20240801_optimization_solution.ipynb))
 
 ### Day 4
 - 資料なし

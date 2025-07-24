@@ -1,7 +1,7 @@
 # Kawasaki Quantum Summer Camp 2025
 
 ### Day 1
-- 量子コンピューティング入門 (解説)
+- 量子コンピューティング入門 ([解説](./day1/20250729_QCIntro.pdf))
 - 武田研究室見学
 - HWテストセンター見学
 - サイエンスギャラリー見学
@@ -10,14 +10,14 @@
 ### Day 2
 - 量子ハードウェア入門 (解説・コード)
 - 量子ゲート基礎 IBM Quantum Composer ([解説](./day2/20250730_Composer.pdf))
-- Qiskit入門演習(コード)
-- 量子テレポーテーション（[解説](./day2/20250730_Telepo.pdf)・コード)
+- Qiskit入門演習([コード](./day2/20250730_qiskit.ipynb))
+- 量子テレポーテーション([解説](./day2/20250730_Telepo.pdf)・[コード](./day2/20250730_teleportation.ipynb))
 - キャリアトーク
 
 ### Day 3
-- 量子機械学習 ([解説](./day3/20250731_QML.pdf)・コード)
+- 量子機械学習 ([解説](./day3/20250731_QML.pdf)・[コード](./day3/20250731_qml.ipynb))
 - 量子最適化 (解説・コード)
-- 量子化学 ([解説](./day3/20250731_chemistry.pdf)・コード)
+- 量子化学 ([解説](./day3/20250731_chemistry.pdf)・[コード](./day3/20250731_chemistry.ipynb))
 
 ### Day 4
 - グループワーク

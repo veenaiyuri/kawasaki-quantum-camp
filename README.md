@@ -25,10 +25,11 @@
   
 ## Camp期間のあとにQiskitコードを動かす場合
 JupyterHub環境が動かなくなりますが、以下のいずれかの方法でコードを実行することができます。
+1. [Google Colabratory](https://colab.research.google.com/) 上で実行する   
+   [「Google コラボ を使う手順」](https://quantum-tokyo.github.io/introduction/get_started/colab.html)を参照ください。
 1. [qBraid](https://www.qbraid.com)上で実行する    
    [「qBraid LabでQiskitを使う手順」](https://quantum-tokyo.github.io/introduction/get_started/qbraid.html)を参照ください。
-2. [Google Colabratory](https://colab.research.google.com/) 上で実行する   
-   毎回、以下のコマンドをjupyter notebook上で最初に実行する必要があります。([「Google コラボ を使う手順」](https://quantum-tokyo.github.io/introduction/get_started/colab.html)を参照ください。)
+
 ```
 !pip install qiskit qiskit[visualization] qiskit-ibm-runtime qiskit-aer
 !pip install qiskit-algorithms qiskit-nature scikit-learn 

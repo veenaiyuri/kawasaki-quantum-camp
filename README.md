@@ -30,12 +30,6 @@ JupyterHub環境が動かなくなりますが、以下のいずれかの方法�
 1. [qBraid](https://www.qbraid.com)上で実行する    
    [「qBraid LabでQiskitを使う手順」](https://quantum-tokyo.github.io/introduction/get_started/qbraid.html)を参照ください。
 
-```
-!pip install qiskit qiskit[visualization] qiskit-ibm-runtime qiskit-aer
-!pip install qiskit-algorithms qiskit-nature scikit-learn 
-!pip install --prefer-binary pyscf
-```
-
 
 わからなくなったら、IBM 沼田 (kifumi@jp.ibm.com) にご連絡ください。
 

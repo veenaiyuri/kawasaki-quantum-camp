@@ -8,7 +8,7 @@
 - 藤堂先生の特別講義
 
 ### Day 2
-- 量子ハードウェア入門 (解説・コード)
+- 量子ハードウェア入門 ([解説](./day2/20250730_Hardware.pdf))
 - 量子ゲート基礎 IBM Quantum Composer ([解説](./day2/20250730_Composer.pdf))
 - Qiskit入門演習([コード](./day2/20250730_qiskit.ipynb))
 - 量子テレポーテーション([解説](./day2/20250730_Telepo.pdf)・[コード](./day2/20250730_teleportation.ipynb))
@@ -16,7 +16,7 @@
 
 ### Day 3
 - 量子機械学習 ([解説](./day3/20250731_QML.pdf)・[コード](./day3/20250731_qml.ipynb))
-- 量子最適化 (解説・コード)
+- 量子最適化 ([解説](./day3/20250731_Optimization.pdf)・[コード](./day3/20250731_optimization.ipynb))
 - 量子化学 ([解説](./day3/20250731_chemistry.pdf)・[コード](./day3/20250731_chemistry.ipynb))
 
 ### Day 4
